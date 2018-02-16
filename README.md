@@ -1,0 +1,2 @@
+# ImplementationVisualCryptography_WindowsForms
+Simple desktop application implementing Visual Cryptography  algorithm.
